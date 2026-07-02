@@ -1,4 +1,4 @@
-# GPT-2 Small — From Scratch
+# GPT-2 Small From Scratch
 
 A from-scratch, educational implementation of a GPT-2 (small / 124M) style language model in PyTorch , built step by step across a series of Jupyter notebooks. No Hugging Face `transformers` model classes are used; every component (tokenizer wrapper, attention, transformer block, GPT model) is implemented by hand.
 
