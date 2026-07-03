@@ -100,6 +100,4 @@ Note: `architecture.ipynb` on its own uses a **randomly initialized** model, so 
 
 This project follows the structure and exercises popularized by Sebastian Raschka's *Build a Large Language Model (From Scratch)* book/repo, implemented here independently for learning purposes.
 
-## License
 
-No license specified yet — add one (e.g. MIT) if you intend others to reuse this code.
